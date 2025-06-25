@@ -31,5 +31,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/jooyongDev/netflix-code-to-discord:latest
-            ghcr.io/jooyongDev/netflix-code-to-discord:${{ github.ref_name }}
+            ghcr.io/jooyongdev/netflix-code-to-discord:latest
+            ghcr.io/jooyongdev/netflix-code-to-discord:${{ github.ref_name }}
