@@ -1,6 +1,7 @@
 # 📬 Netflix Code to Discord
 
 This script automatically checks your Naver email inbox for new Netflix verification emails, extracts any code link, and sends it to a Discord channel using a webhook.
+version 1.0.0
 
 ## 🔧 Features
 
