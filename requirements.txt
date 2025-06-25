@@ -1,0 +1,10 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+dotenv==0.9.9
+idna==3.10
+IMAPClient==3.0.1
+python-dotenv==1.1.1
+pytz==2025.2
+pyzmail36==1.0.5
+requests==2.32.4
+urllib3==2.5.0
